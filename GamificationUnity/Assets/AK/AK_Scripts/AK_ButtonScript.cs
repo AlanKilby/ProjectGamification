@@ -11,5 +11,6 @@ public class AK_ButtonScript : MonoBehaviour
     public void PressButton()
     {
         destination.SetActive(true);
-        currentCanvas.SetActive(false);    }
+        currentCanvas.SetActive(false);    
+    }
 }
